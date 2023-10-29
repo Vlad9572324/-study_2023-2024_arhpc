@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёта по лабораторной работе 5"
 subtitle: "Основы работы с Midnight Commander (mc). Структура программы на языке ассемблера NASM"
-author: "Субанов Юсуф Жура угли	НПМбв-01-21"
+author: "Останин Владислав Александрович	НПМбв-01-21"
 
 ## Generic otions
 lang: ru-RU
